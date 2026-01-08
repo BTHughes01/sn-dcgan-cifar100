@@ -24,7 +24,7 @@ This repository contains the code and report for a generative modelling project 
 - Generated images exhibit structural diversity and a continuous latent space
 
 ## Repository Contents
-- `report.pdf` — Detailed methodology, theory, experimental setup, results, and limitations
+- `paper.pdf` — Detailed methodology, theory, experimental setup, results, and limitations
 - `dcgan.py` — Generator, discriminator, and training loop implementation
 
 ## Notes
